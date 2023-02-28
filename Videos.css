@@ -1,0 +1,49 @@
+.videos {
+    flex: 0.8;
+  }
+  
+  .row {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+  }
+  
+  span.title {
+    font-size: 14px;
+    padding: 0px 5px;
+    line-height: 400;
+    color: #000000e6;
+  }
+  
+  span.channelname {
+    font-size: 13px;
+  }
+  
+  .time_options.d-flex {
+    width: 100%;
+    justify-content: center;
+    flex-direction: column;
+  }
+  
+  span.views {
+    font-size: 10px;
+  }
+  
+  span.timestamp {
+    font-size: 16px;
+  }
+  
+  span.videos__duration {
+    bottom: 5%;
+    right: 2%;
+    background-color: #000;
+    color: #fff;
+  }
+  
+  .profile_img img {
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    margin: 5px;
+  }
+  
